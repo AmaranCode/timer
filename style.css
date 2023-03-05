@@ -1,0 +1,18 @@
+body{
+    width: 50%;
+    height: 400px;
+    align-self: center;
+    text-align: center;
+    color: black;
+    background-color: beige;
+    border: 2px solid pink;
+}
+.minutes{
+    height: 25px;
+    width: 40px;
+    display: inline;
+}
+label{
+    display: inline;
+    align-self: start;
+}
